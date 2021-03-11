@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "model": "Classic",
+      "brand": "Chevrolet",
+      "color": "Champagne",
+      "price": 26990,
+      "id": 1
+    },
+    {
+      "model": "Tucson",
+      "brand": "Hyundai",
+      "color": "Prata",
+      "price": 38500,
+      "id": 2
+    },
+    {
+      "model": "Fiesta",
+      "brand": "Ford",
+      "color": "Prata",
+      "price": 21990,
+      "id": 3
+    },
+    {
+      "model": "207 Passion",
+      "brand": "Peugeot",
+      "color": "Branco",
+      "price": 19900,
+      "id": 4
+    },
+    {
+      "model": "C3 Picasso",
+      "brand": "Citroen",
+      "color": "Prata",
+      "price": 27999,
+      "id": 5
+    }
+  ]
+}
